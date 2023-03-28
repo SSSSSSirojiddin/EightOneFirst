@@ -20,6 +20,11 @@ class MainActivity : AppCompatActivity() {
         //pull
         //push
 
+
+
+        //cmd
+        //
+
         Toast.makeText(this,"sada",Toast.LENGTH_SHORT).show()
     }
 }
