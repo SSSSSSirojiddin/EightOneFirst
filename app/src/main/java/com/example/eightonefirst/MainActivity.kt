@@ -2,6 +2,7 @@ package com.example.eightonefirst
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import android.widget.Toast
 
 class MainActivity : AppCompatActivity() {
     //GitHub
@@ -19,5 +20,6 @@ class MainActivity : AppCompatActivity() {
         //pull
         //push
 
+        Toast.makeText(this,"sada",Toast.LENGTH_SHORT).show()
     }
 }
